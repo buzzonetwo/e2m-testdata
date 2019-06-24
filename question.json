@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Marisa Robel",
+        "questionText": "What is wrong with this API design?",
+        "questionNum": 1,
+        "likes": 4
+    },
+    {
+        "id": "2",
+        "name": "Henri Reinger",
+        "questionText": "How can we improve efficiency?",
+        "questionNum": 2,
+        "likes": 43
+    },
+    {
+        "id": "3",
+        "name": "Anon",
+        "questionText": "fault-tolerant channels SMTP",
+        "questionNum": 3,
+        "likes": 498
+    },
+    {
+        "id": "4",
+        "name": "Anon",
+        "questionText": "digital invoice proactive",
+        "questionNum": 4,
+        "likes": 24
+    }
+]
